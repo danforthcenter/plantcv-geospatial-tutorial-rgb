@@ -1,0 +1,3 @@
+ipympl
+plantcv
+plantcv-geospatial
