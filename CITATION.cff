@@ -1,0 +1,14 @@
+cff-version: 1.0.0
+authors:
+- family-names: Griffiths
+  given-names: Marcus
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/0000-0003-2349-8967"
+- family-names: Brown
+  given-names: Keely Elizabeth
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/0000-0002-5371-5830" 
+title: "PlantCV-Geospatial RGB Tutorial"
+version: 1.0
+doi: 
+date-released: 2026
