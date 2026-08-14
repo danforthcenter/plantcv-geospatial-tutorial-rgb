@@ -3,3 +3,5 @@
 Try our tutorial for a PlantCV Geospatial RGB workflow. Make a georeferenced plot map, exporting plot maps as GeoJSON, and make PlantCV percent coverage measurements per plot.
 
 Note: This tutorial is for local use only as it uses napari, which will not open through web browsers.
+
+[![test-pr](https://github.com/danforthcenter/plantcv-geospatial-tutorial-rgb/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-geospatial-tutorial-rgb/actions/workflows/ci-tests.yml)
