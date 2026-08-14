@@ -7,7 +7,7 @@ def test_notebook(tmpdir):
     """Test the notebook."""
     tmp = tmpdir.mkdir('sub')
     # Open the notebook
-    with open("Test_index.ipynb", "r") as f:
+    with open("test_index.ipynb", "r") as f:
         nb = nbformat.read(f, as_version=4)
 
     # Process the notebook
