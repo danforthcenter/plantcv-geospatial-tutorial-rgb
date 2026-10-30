@@ -7,7 +7,11 @@ authors:
 - family-names: Brown
   given-names: Keely Elizabeth
   affiliation: Donald Danforth Plant Science Center
-  orcid: "https://orcid.org/0000-0002-5371-5830" 
+  orcid: "https://orcid.org/0000-0002-5371-5830"
+- family-names: Sumner
+  given-names: Josh
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/0000-0002-3399-9063"
 - family-names: Murphy
   given-names: Katherine
   affiliation: Donald Danforth Plant Science Center
