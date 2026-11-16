@@ -1,4 +1,4 @@
-# PlantCV-Geospatial: RGB indicies Tutorial
+# PlantCV-Geospatial: RGB Indicies Tutorial
 
 Try our tutorial for a PlantCV Geospatial RGB workflow. Make a georeferenced plot map, exporting plot maps as GeoJSON, and make PlantCV percent coverage measurements per plot.
 
